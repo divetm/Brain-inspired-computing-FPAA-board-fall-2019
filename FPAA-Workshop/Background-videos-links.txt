@@ -1,0 +1,17 @@
+1) Floating-Gate Circuit Intro: https://drive.google.com/open?id=1NcCX0UNYRM4rYBI2bjVw2rE6LdAWnDyW
+
+2) Basic Physical FG devices: https://drive.google.com/file/d/1kBVhOGI3nbaTyXkiPWBv7deRtlzo29mb/view?usp=sharing
+
+3) Lecture First-Order Filter Dynamics: https://drive.google.com/file/d/1oNcKPAE_ImSyaXJIXItcdmfL9aLG4E98/view?usp=sharing
+
+4) Lecture Tuning OTA Amplifiers: https://drive.google.com/file/d/1xXiay-BKrOPqeSuwjUvuu7fWsFTaO_w4/view?usp=sharing
+
+5) Introduction on SOS Concepts: https://drive.google.com/file/d/1dHT5j2qpIrvrNm4EzxATyUzGDH9shMx_/view?usp=sharing
+
+6) Diff2 SoS Introduction: https://drive.google.com/open?id=1Y6Hvmxd9LcXGa66AGp-aLpAse9okkFYl
+
+7) C4 SOS Introduction: https://drive.google.com/file/d/1H1yIlTLrn3oLTfzWZbqxM9WVmL-TeYSn/view?usp=sharing
+
+8) Lecture Linear Analysis for First Order device: https://drive.google.com/file/d/1NMiSlM3ZCI9h8VuJEbgl9nr7-CWxB0-s/view?usp=sharing
+
+9) Lecture Nonlinear Amplifier dynamics: https://drive.google.com/file/d/1z8GCxITe2C0H_BMjlAa2_YwRuYia6o-n/view?usp=sharing
